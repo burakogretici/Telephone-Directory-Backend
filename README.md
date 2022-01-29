@@ -30,7 +30,7 @@
          <tdCustomerBirthDate></td>
          <td>DateTime</td>
          <td>False</td>
-          <td></td>
+          <td> </td>
           </tr>
           <tr>
          <td>CustomerPhoneNumber</td>
