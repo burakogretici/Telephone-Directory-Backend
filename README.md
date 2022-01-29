@@ -7,7 +7,7 @@
   
 ### Models
 > Customers
- <table>
+> <table>
       <tr>
          <td>Name</td>
          <td>Data Type</td>
@@ -19,16 +19,20 @@
          <td>int</td>
          <td>False</td>
         
-         <td>satır 2, sütun 2</td>
-         <td>satır 2, sütun 2</td>
-         <td>satır 2, sütun 2</td>
+         <td>CustomerName</td>
+         <td>nvarchar 50</td>
+         <td>False</td>
         
-         <td>satır 2, sütun 2</td>
-         <td>satır 2, sütun 2</td>
-        <td>satır 2, sütun 2</td>
+         <tdCustomerBirthDate></td>
+         <td>DateTime</td>
+        <td>False</td>
         
-         <td>satır 2, sütun 2</td>
-         <td>satır 2, sütun 2</td>
-         <td>satır 2, sütun 2</td>
+         <td>CustomerPhoneNumber</td>
+         <td>nvarchar 50</td>
+         <td>False</td>
+       
+         <td>CustomerDescription</td>
+         <td>nvarchar 255</td>
+         <td>False</td>
       </tr>
    </table>
