@@ -7,7 +7,7 @@
   
 ### Models
 > Customers
-> <table>
+ <table>
       <tr>
          <td>Name</td>
          <td>Data Type</td>
