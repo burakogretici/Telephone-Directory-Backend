@@ -18,25 +18,30 @@
          <td>Id</td>
          <td>int</td>
          <td>False</td>
+         <td></td>
       </tr>
        <tr>
          <td>CustomerName</td>
          <td>nvarchar 50</td>
          <td>False</td>
+          <td></td>
           </tr>
        <tr>
          <tdCustomerBirthDate></td>
          <td>DateTime</td>
-        <td>False</td>
+         <td>False</td>
+          <td></td>
           </tr>
           <tr>
          <td>CustomerPhoneNumber</td>
          <td>nvarchar 50</td>
          <td>False</td>
+          <td></td>
          </tr>
         <tr>
          <td>CustomerDescription</td>
          <td>nvarchar 255</td>
          <td>False</td>
+           <td></td>
       </tr>
    </table>
