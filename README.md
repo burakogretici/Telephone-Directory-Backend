@@ -9,15 +9,24 @@
 > Customers
  <table>
       <tr>
-         <td>Id</td>
-         <td>CustomerName</td>
-         <td>CustomerBirthDate</td> 
-         <td>CustomerPhoneNumber</td>
-         <td>CustomerDescription</td>
+         <td>Name</td>
+         <td>Data Type</td>
+         <td>Allow Nulls</td> 
+         <td>Default</td>
       </tr>
       <tr>
-         <td>satır 2, sütun 1</td>
+         <td>Id</td>
+         <td>int</td>
+         <td>False</td>
+        
          <td>satır 2, sütun 2</td>
+         <td>satır 2, sütun 2</td>
+         <td>satır 2, sütun 2</td>
+        
+         <td>satır 2, sütun 2</td>
+         <td>satır 2, sütun 2</td>
+        <td>satır 2, sütun 2</td>
+        
          <td>satır 2, sütun 2</td>
          <td>satır 2, sütun 2</td>
          <td>satır 2, sütun 2</td>
